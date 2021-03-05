@@ -1,0 +1,31 @@
+[Variables]
+
+CPUNameWin				=%1
+CPU2NameWin				=%1
+GPUNameWin				=%1
+GPUWindowsVideo			=0
+RAMNameWin				=Memory
+Drive1NameWin			=%1
+Drive2NameWin			=%1
+Drive3NameWin			=%1
+Drive4NameWin			=%1
+Drive5NameWin			=%1
+Drive6NameWin			=%1
+Drive7NameWin			=%1
+Drive8NameWin			=%1
+FritzBoxName			=%1
+FBIP					=fritz.box
+USER					=admin
+PASS					=$$$
+LANNameWin				=%1
+LANInterface			=Best
+LANCustomSubstitute		=
+LANCustomSubstitute2	=
+LANMaxInValueInMBits	=50
+LANMaxOutValueInMBits	=10
+LAN2NameWin				=%1
+LAN2Interface			=Best
+LAN2CustomSubstitute	=
+LAN2CustomSubstitute2	=
+LAN2MaxInValueInMBits	=1
+LAN2MaxOutValueInMBits	=1024
